@@ -3,6 +3,8 @@
 
 O **App Pets** tem o intuito de o usuário efetuar o registro de seus Pets, os gatos envolvendo os cuidados com seus Pets e os medicamentos utilizados.
 
+<img src="assets/paw-dog.png" width="75">
+
 ## Estruturação das pastas
 A estruturação tem o objetivo de organizar os arquivos do projeto, de maneira clara e de fácil manutentação.
 Onde as pastas são separadas por:
